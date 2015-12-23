@@ -1,7 +1,7 @@
 name: rowlbertosmedia
 favicon: null
-layout_spectrum: 0.9600491165183485
-typography_spectrum: 0.8336101942695677
+layout_spectrum: 1
+typography_spectrum: 0.12188
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.693561126710847
-  lightness: 0.6129973141942173
-  saturation: 0.3840079642832279
-  rhythmicContrast: 0.051995019195601344
+    - '#2d4c83'
+    - '#c1bfb2'
+    - '#b4785e'
+    - '#9a1d21'
+    - '#00e0f9'
+  brandStrength: 0.3125
+  lightness: 0.3125
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
